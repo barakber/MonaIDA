@@ -5,6 +5,7 @@ $ ghc -optc-DWIN32 -optc-D__NT__ -optc-D__IDP__ -optc-w -optc-mrtd -optc-dll -sh
 */
 
 #include <ida.hpp>
+#include <name.hpp>
 #include <idp.hpp>
 #include <loader.hpp>
 
